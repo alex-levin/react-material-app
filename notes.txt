@@ -3,4 +3,5 @@ npx create-react-app react-material-app
 cd react-material-app
 npm install --save @material-ui/core
 npm install typeface-roboto --save
+npm install @material-ui/icons
 
